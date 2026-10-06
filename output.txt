@@ -1,0 +1,6 @@
+=== Mobile Data Promo Summary ===
+Student Name: John Paul Del Rosario
+Data Allocation: 5 GB and 380 MB
+Total Cost: PHP 247.50
+Categorized as Heavy User? true
+Eligible for VIP Promo Discount? true
